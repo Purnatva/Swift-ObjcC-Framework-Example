@@ -1,0 +1,10 @@
+framework module ObjctiveCSwiftFramework {
+  umbrella header "ObjctiveCSwiftFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module ObjctiveCSwiftFramework.Swift {
+    header "ObjctiveCSwiftFramework-Swift.h"
+}
