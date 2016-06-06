@@ -1,0 +1,16 @@
+Few useful links for Swift and/or ObjectiveC framework related
+
+http://www.knowstack.com/framework-vs-library-cocoa-ios/
+http://blog.bjhomer.com/2015/05/defining-modules-for-custom-libraries.html
+http://nsomar.com/modular-framework-creating-and-using-them/
+https://spin.atomicobject.com/2015/02/23/c-libraries-swift/
+http://stackoverflow.com/questions/28746214/how-to-import-private-framework-headers-in-a-swift-framework
+http://stackoverflow.com/questions/34265339/private-module-map-for-a-framework
+http://stackoverflow.com/questions/24719893/what-is-swift-compiler-search-paths-import-paths-in-xcode-6-building-settings
+
+http://stackoverflow.com/questions/24102104/how-to-import-swift-code-to-objective-c
+
+https://spin.atomicobject.com/2015/09/24/swift-to-objective-c/
+https://www.youtube.com/watch?v=aUGAiuuZ89w
+http://stackoverflow.com/questions/24206732/cant-use-swift-classes-inside-objective-c
+http://blog.redgreenrefactor.eu/post/137625319509/using-swift-frameworks-from-objective-c-target
